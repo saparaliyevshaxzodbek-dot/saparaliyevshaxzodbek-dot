@@ -1,13 +1,13 @@
 ## Hi, I'm Shaxzodbek Saparaliyev 👋
 
-**.NET Developer Intern at EPAM Systems** · Tashkent, Uzbekistan
+**.NET Developer** · Tashkent, Uzbekistan · completed EPAM's [Fundamentals] .NET program
 
 I build web applications with C#, ASP.NET Core and Entity Framework Core, and I like clean, tested code that passes automated quality checks.
 
-- 💼 .NET Developer Intern at **EPAM Systems** (2026 – present)
-- 🎓 Studying at **TUIT**, .NET development at **PDP Academy**
+- 🎓 Completed the **[Fundamentals] .NET** program at **EPAM Training Center** (2026)
+- 🏫 Studying at **TUIT**, .NET development at **PDP Academy**
 - 🌱 Currently deepening: ASP.NET Core Web API, EF Core, SignalR, testing
-- 🗣 Uzbek (native) · English (B2) · Russian (B1)
+- 🗣 Uzbek (native) · English (B1) · Russian (B1)
 
 ### 🛠 Tech stack
 
@@ -31,7 +31,7 @@ I build web applications with C#, ASP.NET Core and Entity Framework Core, and I 
 | [**Dasturxon**](https://github.com/saparaliyevshaxzodbek-dot/dasturxon) | Restaurant ordering & delivery system: photo menu, delivery zones, live order tracking, kitchen board, role-based staff panel, sales dashboard | ASP.NET Core 10 · EF Core · SignalR · JWT · React · TypeScript |
 | [**Portfolio**](https://github.com/saparaliyevshaxzodbek-dot/portfolio) | Bilingual (EN/UZ) CV website with an admin panel to edit all content | ASP.NET Core 10 Web API · EF Core · SQLite · React · Tailwind |
 
-At EPAM I also built an online store (ASP.NET Core MVC), a layered Web API with AutoMapper, a three-tier To-Do List app with ASP.NET Core Identity and a Northwind order Web API with the Repository pattern.
+In the EPAM program I also built an online store (ASP.NET Core MVC), a layered Web API with AutoMapper, a three-tier To-Do List app with ASP.NET Core Identity and a Northwind order Web API with the Repository pattern.
 
 ### 📫 Contact
 
