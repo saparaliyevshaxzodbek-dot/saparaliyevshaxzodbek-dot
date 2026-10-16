@@ -1,9 +1,10 @@
 ## Hi, I'm Shaxzodbek Saparaliyev 👋
 
-**.NET Developer** · Tashkent, Uzbekistan · completed EPAM's [Fundamentals] .NET program
+**IT Specialist at Nura Electric** · **.NET Developer** · Tashkent, Uzbekistan
 
 I build web applications with C#, ASP.NET Core and Entity Framework Core, and I like clean, tested code that passes automated quality checks.
 
+- 💼 IT Specialist at **Nura Electric** (Nura Group), October 2026 – present
 - 🎓 Completed the **[Fundamentals] .NET** program at **EPAM Training Center** (2026)
 - 🏫 Studying at **TUIT**, .NET development at **PDP Academy**
 - 🌱 Currently deepening: ASP.NET Core Web API, EF Core, SignalR, testing
@@ -23,6 +24,8 @@ I build web applications with C#, ASP.NET Core and Entity Framework Core, and I 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-0F172A?style=flat&logo=tailwindcss&logoColor=38BDF8)
 ![xUnit](https://img.shields.io/badge/xUnit%20%7C%20NUnit-5E2750?style=flat)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=flat&logo=windows&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D6?style=flat&logo=windows&logoColor=white)
 
 ### 🚀 Featured projects
 
