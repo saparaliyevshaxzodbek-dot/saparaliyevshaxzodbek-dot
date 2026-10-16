@@ -42,4 +42,4 @@ In the EPAM program I also built an online store (ASP.NET Core MVC), a layered W
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/Shaxzod15_2005)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:saparaliyevshaxzodbek@gmail.com)
 
-Open to .NET / backend developer opportunities.
+Happy to connect about .NET, backend development and IT infrastructure.
