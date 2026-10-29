@@ -33,9 +33,9 @@ I build web applications with C#, ASP.NET Core and Entity Framework Core — fro
 
 #### IT Yordam — IT service desk & Telegram bot *(built at work, source is private)*
 
-Employees report a problem to a Telegram bot in one message — no forms. IT works the requests on a real-time dashboard with wait-time estimates, SLA timers, sound alerts and consent-based remote help (Windows Quick Assist or a self-hosted RustDesk server). The bot and the UI speak Uzbek, Russian and English.
+Employees report a problem to a Telegram bot in one message — no forms. IT works the requests on a real-time dashboard with wait-time estimates, SLA timers, sound alerts and consent-based remote help (AnyDesk, Windows Quick Assist or a self-hosted RustDesk server). The bot and the UI speak Uzbek, Russian and English.
 
-`ASP.NET Core 10` `EF Core` `SignalR` `Telegram Bot API` `background services` `React 19` `TypeScript` `48 xUnit tests`
+`ASP.NET Core 10` `EF Core` `SignalR` `Telegram Bot API` `background services` `React 19` `TypeScript` `50 xUnit tests`
 
 <img src="https://raw.githubusercontent.com/saparaliyevshaxzodbek-dot/portfolio/main/src/Portfolio.Web/public/images/projects/it-yordam/board.jpg" alt="IT Yordam queue board" width="760">
 
